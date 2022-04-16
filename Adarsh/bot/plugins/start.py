@@ -9,10 +9,8 @@ from Adarsh.utils.database import Database
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
-
 from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
 db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
-
 from pyrogram.types import ReplyKeyboardMarkup
 
 if MY_PASS:
@@ -36,47 +34,6 @@ else:
 
             
             
-            
-            
-@StreamBot.on_message(filters.regex("maintainers😎"))
-async def maintainers(b,m):
-    try:
-       await b.send_message(chat_id=m.chat.id,text="HELLO",quote=True)
-    except Exception:
-                await b.send_message(
-                    chat_id=m.chat.id,
-                    text="I am Coded By [Adarsh Goel](https://github.com/adarsh-goel)",
-                    
-                    reply_markup=InlineKeyboardMarkup(
-                        [
-                            [
-                                InlineKeyboardButton("Developer💻", url=f"https://t.me/agprojects")
-                            ]
-                        ]
-                    ),
-                    parse_mode="markdown",
-                    disable_web_page_preview=True)
-            
-         
-@StreamBot.on_message(filters.regex("follow❤️"))
-async def follow_user(b,m):
-    try:
-       await b.send_message(chat_id=m.chat.id,text="HELLO",quote=True)
-    except Exception:
-                await b.send_message(
-                    chat_id=m.chat.id,
-                    text="<B>HERE'S THE FOLLOW LINK</B>",
-                    
-                    reply_markup=InlineKeyboardMarkup(
-                        [
-                            [
-                                InlineKeyboardButton("FOLLOW ME", url=f"https://GITHUB.COM/adarsh-goel")
-                            ]
-                        ]
-                    ),
-                    parse_mode="HTML",
-                    disable_web_page_preview=True)
-
 @StreamBot.on_message((filters.command("start") | filters.regex('start⚡️')) & filters.private & ~filters.edited)
 async def start(b, m):
     if not await db.is_user_exist(m.from_user.id):
