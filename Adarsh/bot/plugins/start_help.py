@@ -87,7 +87,7 @@ async def start(b, m):
                 ]
             ),
             disable_web_page_preview=True
-
+        )
 
 @StreamBot.on_message((filters.command("help") | filters.regex('help')) & filters.private & ~filters.edited)
 async def help_handler(bot, message):
