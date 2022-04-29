@@ -1,74 +1,41 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/Filestreambot-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/Filestreambot-pro?color=green)
-![GitHub](https://img.shields.io/github/license/adarsh-goel/Filestreambot-pro?color=green)
-
-
-<h1 align="center">FileStreamBot</h1>
-<p align="center"> 
-  <img src="https://socialify.git.ci/adarsh-goel/Filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+**<h1 align="center">𝚃𝙶 𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃</h1>**
+<p align="center">
+  <a href="https://youtu.be/W4wSOZw8GXk">
+    <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
   </a>
-  
- <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
+  <p align="center">
+    𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-   </strong></a>
+    <a href="https://telegram.dog/OPFileToLinkBot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/FileStreamBotpro/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/adarsh-goel/FileStreamBot-pro/issues">Request Feature</a>
   </p>
-
-
+  <p align="center">
+  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  </p>
 <hr>
+  
+## About This Bot
 
-
-
-## 🍁 About This Bot :
-
-![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
-
+<p align="center">
+    <a href="https://github.com/Aadhi000/File-To-Link">
+        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
+    </a>
 </p>
 <p align='center'>
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
 </p>
 
+## How to make your own
 
-## ♢ How to make your own :
-
-
-#### ♢ Click on This Drop-down and get more details
-
-<br>
-<details>
-  <summary><b>Deploy on Heroku:</b></summary>
-
-
-1. Fork This Repo
-2. Click on the button to Deploy and follow steps
-
-<h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
-
-Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
-### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+### Deploy on Heroku
 
-<br>
+Press the below button to Fast deploy on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Linkkk)
 
-<p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/tesr">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-
-then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
-
-<details>
-  <summary><b>Features:</b></summary>
-  
-<p>
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
