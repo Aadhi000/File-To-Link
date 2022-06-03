@@ -178,9 +178,9 @@ async def help_handler(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/MWUpdatez"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/OpusTechz")],
-                [InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/114912Aadil"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/Aadhi000")],
-                [InlineKeyboardButton("💌 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 💌", url="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA")]
+                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/newchannel_h"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/OpusTechz")],
+                    [InlineKeyboardButton("🔥 CONTACT", url="https://t.me/hk4crprasad"), InlineKeyboardButton("💠 𝙶𝙸𝚃𝙷𝚄𝙱 💠", url="https://github.com/hk4crprasad")],
+                    [InlineKeyboardButton("💌 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 💌", url="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg")]
             ]
         )
     )
@@ -230,22 +230,22 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺 𝙱𝙾𝚃〕</b>
 ┃
-┣⪼<b>𝙱𝙾𝚃-𝙽𝙰𝙼𝙴 : <a href='https://github.com/Aadhi000/File-To-Link'>𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺</a></b>
-┣⪼<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚉 : <a href='https://t.me/MWUpdatez'>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a></b>
-┣⪼<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : <a href='https://t.me/OpusTechz'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
+┣⪼<b>𝙱𝙾𝚃-𝙽𝙰𝙼𝙴 : <a href='https://github.com/hk4crprasad/File-To-Link'>𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺</a></b>
+┣⪼<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚉 : <a href='https://t.me/newchannel_h'>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a></b>
+┣⪼<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : <a href='https://t.me/hk4crprasad'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
 ┣⪼<b>𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝚄𝙺𝙾</b>
 ┣⪼<b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚁𝙾𝙶𝚁𝙰𝙼</b>
 ┣⪼<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 3</b>
-┣⪼<b>𝚂𝙾𝚄𝚁𝙲𝙴-𝙲𝙾𝙳𝙴 : <a href='https://github.com/Aadhi000/File-To-Link'>𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺</a></b>
-┣⪼<b>𝚈𝚃-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
+┣⪼<b>𝚂𝙾𝚄𝚁𝙲𝙴-𝙲𝙾𝙳𝙴 : <a href='https://github.com/hk4crprasad/File-To-Link'>𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺</a></b>
+┣⪼<b>𝚈𝚃-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href='https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
 ┃
 <b>╰━━━━━━━〔𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃〕</b>""",
   parse_mode="html",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/MWUpdatez"), InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/114912Aadil")],
-                [InlineKeyboardButton("💌 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 💌", url="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA")]
+                [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/newchannel_h"), InlineKeyboardButton("💸 𝙳𝙾𝙽𝙰𝚃𝙴 💸", url="https://paypal.me/114912Aadil")],
+                [InlineKeyboardButton("💌 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 💌", url="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg")]
             ]
         )
     )
