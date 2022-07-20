@@ -58,7 +58,7 @@ async def start(b, m):
                 return
         await m.reply_photo(
             photo="https://telegra.ph/file/3cd15a67ad7234c2945e7.jpg",
-            text="**𝙷𝙴𝙻𝙻𝙾...⚡**\n\n**𝙸𝙰𝙼 𝙰 𝚂𝙸𝙼𝙿𝙻𝙴 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝚃𝙾 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙾𝚁 𝙱𝙾𝚃.**\n\n**𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶..\n\n𝚄𝚂𝙴 /help 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝙳𝙴𝚃𝙰𝙸𝙻𝚂...\n\n𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴 𝚃𝙾 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚉....**",
+            caption="**𝙷𝙴𝙻𝙻𝙾...⚡**\n\n**𝙸𝙰𝙼 𝙰 𝚂𝙸𝙼𝙿𝙻𝙴 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝚃𝙾 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙾𝚁 𝙱𝙾𝚃.**\n\n**𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶..\n\n𝚄𝚂𝙴 /help 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝙳𝙴𝚃𝙰𝙸𝙻𝚂...\n\n𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴 𝚃𝙾 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚉....**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 ⚡", url="https://t.me/MWUpdatez"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/OpusTechz")],
@@ -128,7 +128,7 @@ async def start(b, m):
         msg_text = "**𝚈𝙾𝚄𝚁 𝙻𝙸𝙽𝙺 𝙸𝚂 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳...⚡\n\n📧 𝙵𝙸𝙻𝙴 𝙽𝙰𝙼𝙴 :-\n{}\n {}\n\n💌 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 :- {}\n\n♻️ 𝚃𝙷𝙸𝚂 𝙻𝙸𝙽𝙺 𝙸𝚂 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙰𝙽𝙳 𝚆𝙸𝙻𝙻 𝙽𝙾𝚃 𝙴𝚇𝙿𝙸𝚁𝙴 ♻️\n\n@OpusTechz**"
         await m.reply_photo(
             photo="https://telegra.ph/file/3cd15a67ad7234c2945e7.jpg",
-            text=msg_text.format(file_name, file_size, stream_link),
+            caption=msg_text.format(file_name, file_size, stream_link),
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚡ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙽𝙾𝚆 ⚡", url=stream_link)]])
         )
@@ -176,7 +176,7 @@ async def help_handler(bot, message):
             return
     await message.reply_photo(
             photo="https://telegra.ph/file/3cd15a67ad7234c2945e7.jpg",
-            text="**┣⪼ 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰𝙽𝚈 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝙴𝙽 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝚂𝙷𝙰𝚁𝙰𝙱𝙻𝙴 𝙻𝙸𝙽𝙺 𝙾𝙵 𝙸𝚃...\n\n┣⪼ 𝚃𝙷𝙸𝚂 𝙻𝙸𝙽𝙺 𝙲𝙰𝙽 𝙱𝙴 𝚄𝚂𝙴𝙳 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙾𝚁 𝚃𝙾 𝚂𝚃𝚁𝙴𝙰𝙼 𝚄𝚂𝙸𝙽𝙶 𝙴𝚇𝚃𝙴𝚁𝙽𝙰𝙻 𝚅𝙸𝙳𝙴𝙾 𝙿𝙻𝙰𝚈𝙴𝚁𝚂 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁.\n\n┣⪼ 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶 𝙹𝚄𝚂𝚃 𝙲𝙾𝙿𝚈 𝚃𝙷𝙴 𝙻𝙸𝙽𝙺 𝙰𝙽𝙳 𝙿𝙰𝚂𝚃𝙴 𝙸𝚃 𝙸𝙽 𝚈𝙾𝚄𝚁 𝚅𝙸𝙳𝙴𝙾 𝙿𝙻𝙰𝚈𝙴𝚁 𝚃𝙾 𝚂𝚃𝙰𝚁𝚃 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶.\n\n┣⪼ 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝚂𝙾 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂. 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙰𝚂 𝙰𝙳𝙼𝙸𝙽 𝚃𝙾 𝙶𝙴𝚃 𝚁𝙴𝙰𝙻𝚃𝙸𝙼𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙴𝚅𝙴𝚁𝚈 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝙿𝙾𝚂𝚃../\n\n┣⪼ 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 :- /about\n\n\n𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴**", 
+            caption="**┣⪼ 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰𝙽𝚈 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝙴𝙽 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝚂𝙷𝙰𝚁𝙰𝙱𝙻𝙴 𝙻𝙸𝙽𝙺 𝙾𝙵 𝙸𝚃...\n\n┣⪼ 𝚃𝙷𝙸𝚂 𝙻𝙸𝙽𝙺 𝙲𝙰𝙽 𝙱𝙴 𝚄𝚂𝙴𝙳 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙾𝚁 𝚃𝙾 𝚂𝚃𝚁𝙴𝙰𝙼 𝚄𝚂𝙸𝙽𝙶 𝙴𝚇𝚃𝙴𝚁𝙽𝙰𝙻 𝚅𝙸𝙳𝙴𝙾 𝙿𝙻𝙰𝚈𝙴𝚁𝚂 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁.\n\n┣⪼ 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶 𝙹𝚄𝚂𝚃 𝙲𝙾𝙿𝚈 𝚃𝙷𝙴 𝙻𝙸𝙽𝙺 𝙰𝙽𝙳 𝙿𝙰𝚂𝚃𝙴 𝙸𝚃 𝙸𝙽 𝚈𝙾𝚄𝚁 𝚅𝙸𝙳𝙴𝙾 𝙿𝙻𝙰𝚈𝙴𝚁 𝚃𝙾 𝚂𝚃𝙰𝚁𝚃 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶.\n\n┣⪼ 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝚂𝙾 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂. 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙰𝚂 𝙰𝙳𝙼𝙸𝙽 𝚃𝙾 𝙶𝙴𝚃 𝚁𝙴𝙰𝙻𝚃𝙸𝙼𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙴𝚅𝙴𝚁𝚈 𝙵𝙸𝙻𝙴/𝚅𝙸𝙳𝙴𝙾 𝙿𝙾𝚂𝚃../\n\n┣⪼ 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 :- /about\n\n\n𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴**", 
   parse_mode="Markdown",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
@@ -230,7 +230,7 @@ async def about_handler(bot, message):
             return
     await message.reply_photo(
             photo="https://telegra.ph/file/3cd15a67ad7234c2945e7.jpg",
-            text="""<b>𝚂𝙾𝙼𝙴𝚃𝙷𝙸𝙽𝙶 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</b>
+            caption="""<b>𝚂𝙾𝙼𝙴𝚃𝙷𝙸𝙽𝙶 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</b>
 
 <b>╭━━━━━━━〔𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺 𝙱𝙾𝚃〕</b>
 ┃
