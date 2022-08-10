@@ -12,7 +12,7 @@ from Adarsh.bot import StreamBot
 from Adarsh.vars import Var
 from pyrogram import filters, Client
 from pyrogram.types import Message
-db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
+db = Database(Var.DATABASE_URL, Var.name)
 broadcast_ids = {}
 
 @StreamBot.on_message(filters.command("users") & filters.private)
