@@ -8,7 +8,7 @@ from Adarsh import StartTime
 
         
     
-@StreamBot.on_message(filters.command('stats') & filters.private & ~filters.edited)
+@StreamBot.on_message(filters.command('stats') & filters.private)
 async def stats(bot, update):
   currentTime = readable_time((time.time() - StartTime))
   total, used, free = shutil.disk_usage('.')
