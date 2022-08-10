@@ -15,15 +15,15 @@ from pyrogram.types import Message
 db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
 broadcast_ids = {}
 
-@StreamBot.on_message(filters.command("users") & filters.private & ~filters.edited)
+@StreamBot.on_message(filters.command("users") & filters.private)
 async def sts(c: Client, m: Message):
-    user_id=m.from_user.id
+    user_id=m.from_user.id 
     if user_id in Var.OWNER_ID:
         total_users = await db.total_users_count()
-        await m.reply_text(text=f"Total Users in DB: {total_users}", parse_mode="Markdown", quote=True)
+        await m.reply_text(text=f"Total Users in DB: {total_users}", quote=True)
         
         
-@StreamBot.on_message(filters.command("broadcast") & filters.private & ~filters.edited & filters.user(list(Var.OWNER_ID)))
+@StreamBot.on_message(filters.command("broadcast") & filters.private & filters.user(list(Var.OWNER_ID)))
 async def broadcast_(c, m):
     user_id=m.from_user.id
     out = await m.reply_text(
