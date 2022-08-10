@@ -66,7 +66,7 @@ async def start_services():
     print('\n')
     print('---------------------------------------------------------------------------------------------------------')
     print('---------------------------------------------------------------------------------------------------------')
-    print('Join https://t.me/agprojects  to follow me for new bots')
+    print(' follow me for more such exciting bots! https://github.com/aadhi000')
     print('---------------------------------------------------------------------------------------------------------')
     print('\n')
     print('----------------------- Service Started -----------------------------------------------------------------')
@@ -76,7 +76,7 @@ async def start_services():
     if Var.ON_HEROKU:
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
-    print('Give a star to my repo https://github.com/adarsh-goel/filestreambot  also follow me for new bots')
+    print('Give a star to my repo https://github.com/adarsh-goel/filestreambot-pro  also follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
 
