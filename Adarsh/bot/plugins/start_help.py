@@ -30,7 +30,7 @@ async def start(b, m):
                 if user.status == "banned":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**"
+                        text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**",
                         disable_web_page_preview=True
                     )
                     return
