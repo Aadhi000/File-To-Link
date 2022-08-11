@@ -1,4 +1,4 @@
-**<h1 align="center">𝚃𝙶 𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃</h1>**
+**<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
 <p align="center">
   <a href="https://youtu.be/W4wSOZw8GXk">
     <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
@@ -19,13 +19,10 @@
 
 <b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
 
-<p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
-    </a>
-</p>
+## Up to 4GB files Supported ♥️
+
 <p align='center'>
-    This bot will give you stream links for Telegram files without the need of waiting till the download completes
+    This bot will give you stream links and fast download links for Telegram files without the need of waiting till the download completes
 </p>
 
 ## How to make your own
@@ -147,6 +144,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Adarsh Goel_(me)](https://github.com/adarsh-goel)
 - [DeekshithSH](https://github.com/DeekshithSH) 
+- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
 - Everyone In This Journey !
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
