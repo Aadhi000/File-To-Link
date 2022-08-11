@@ -25,6 +25,23 @@
     This bot will give you stream links and fast download links for Telegram files without the need of waiting till the download completes
 </p>
 
+## Commands
+
+start - for stating the bot
+
+status - bot current status
+
+help - to open help section
+
+about - bot about menu
+
+users - total bot users count
+
+broadcast - broadcast a message to all users
+
+login - to login if it's password protected 
+
+
 ## How to make your own
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
