@@ -1,4 +1,4 @@
-**<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
+**<h1 align="center"><b>⍣ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ</b></h1>**
 <p align="center">
   <a href="https://youtu.be/W4wSOZw8GXk">
     <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
