@@ -151,7 +151,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
+![image](https://i.postimg.cc/gJV7ZJK5/Screenshot-20220811-114359.jpg)
 
 
 ### Channel Support
@@ -159,7 +159,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
+- [Adarsh Goel](https://github.com/adarsh-goel)
 - [DeekshithSH](https://github.com/DeekshithSH) 
 - <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
 - Everyone In This Journey !
