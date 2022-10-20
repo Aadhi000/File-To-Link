@@ -7,7 +7,7 @@ from Adarsh.utils.database import Database
 from Adarsh.utils.human_readable import humanbytes
 from Adarsh.vars import Var
 from urllib.parse import quote_plus
-from pyrogram import filters, Client
+from pyrogram import filters, Client, enums
 from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
@@ -64,7 +64,7 @@ async def private_receive_handler(c: Client, m: Message):
     if Var.UPDATES_CHANNEL != "None":
         try:
             user = await c.get_chat_member(Var.UPDATES_CHANNEL, m.chat.id)
-            if user.status == "kicked":
+            if user.status == enums.ChatMemberStatus.BANNED:
                 await c.send_message(
                     chat_id=m.chat.id,
                     text="𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳../**",
