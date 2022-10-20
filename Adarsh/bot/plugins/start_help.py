@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 from Adarsh.bot.plugins.stream import MY_PASS
 from Adarsh.utils.human_readable import humanbytes
 from Adarsh.utils.database import Database
-from pyrogram import filters
+from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
 from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
@@ -27,7 +27,7 @@ async def start(b, m):
         if Var.UPDATES_CHANNEL is not None:
             try:
                 user = await b.get_chat_member(Var.UPDATES_CHANNEL, m.chat.id)
-                if user.status == "banned":
+                if user.status == enums.ChatMemberStatus.BANNED:
                     await b.send_message(
                         chat_id=m.chat.id,
                         text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**",
@@ -71,7 +71,7 @@ async def start(b, m):
         if Var.UPDATES_CHANNEL is not None:
             try:
                 user = await b.get_chat_member(Var.UPDATES_CHANNEL, m.chat.id)
-                if user.status == "banned":
+                if user.status == enums.ChatMemberStatus.BANNED:
                     await b.send_message(
                         chat_id=m.chat.id,
                         text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**",
@@ -142,7 +142,7 @@ async def help_handler(bot, message):
     if Var.UPDATES_CHANNEL is not None:
         try:
             user = await bot.get_chat_member(Var.UPDATES_CHANNEL, message.chat.id)
-            if user.status == "banned":
+            if user.status == enums.ChatMemberStatus.BANNED:
                 await bot.send_message(
                     chat_id=message.chat.id,
                     text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**",
@@ -195,7 +195,7 @@ async def about_handler(bot, message):
     if Var.UPDATES_CHANNEL is not None:
         try:
             user = await bot.get_chat_member(Var.UPDATES_CHANNEL, message.chat.id)
-            if user.status == "banned":
+            if user.status == enums.ChatMemberStatus.BANNED:
                 await bot.send_message(
                     chat_id=message.chat.id,
                     text="**ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ../**",
