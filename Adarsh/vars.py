@@ -16,7 +16,7 @@ class Var(object):
     SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
     WORKERS = int(getenv('WORKERS', '4'))
     BIN_CHANNEL = "-1001879335914"
-    PORT = int(getenv('PORT', 8080))
+    PORT = int(getenv('PORT', 6700))
     BIND_ADRESS = "file-to-link-production-f455.up.railway.app"
     PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
     OWNER_ID = "754495556"  
