@@ -235,8 +235,8 @@ async def about_handler(bot, message):
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/oVo-HxBots'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@HxBots'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
+┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/oVo-HxBots'>oVo_FileStreamBot</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@HxBots'>HxBots</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
