@@ -22,7 +22,7 @@ class Var(object):
     OWNER_ID = "754495556"  
     NO_PORT = bool(getenv('NO_PORT', False))
     APP_NAME = None
-    OWNER_USERNAME = "hxbots"
+    OWNER_USERNAME = "kirodewal"
     if 'DYNO' in environ:
         ON_HEROKU = True
         APP_NAME = str(getenv('APP_NAME'))
@@ -36,5 +36,5 @@ class Var(object):
     else:
         URL = "http://{}/".format(FQDN)
     DATABASE_URL = "mongodb://mongo:uvNAqJUbuW7f7XBG8qzm@containers-us-west-170.railway.app:7691"
-    UPDATES_CHANNEL = "hxbots"
+    UPDATES_CHANNEL = "@HxBots"
     BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "-1001362659779")).split())) 
