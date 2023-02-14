@@ -19,7 +19,7 @@ class Var(object):
     PORT = int(getenv('PORT', 6700))
     BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
     PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
-    OWNER_ID = 754495556
+    OWNER_ID = "754495556"
     NO_PORT = bool(getenv('NO_PORT', False))
     APP_NAME = None
     OWNER_USERNAME = "kirodewal"
